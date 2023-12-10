@@ -12,6 +12,6 @@ MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von an
 Du willst auch ein teil des teams sein?
 dann bewirb dich jetzt als  `Betatester/in`/`Developer/in`/`Designer/in`/`Supporter/in`/`Creator/in`. wir sehen uns im Team.
 
-##Wiki
+## Wiki
 
 [TalScript](https://github.com/LoVeYunai/MinTal-Engine/blob/main/TALSCRIPT.md)
