@@ -6,4 +6,5 @@ MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von an
 ## 
 ### Hilfe & FaQ
 [TalScript](https://github.com/LoVeYunai/MinTal-Engine/blob/main/TALSCRIPT.md)
+
 [Installationen & Einrichtung](https://github.com/LoVeYunai/MinTal-Engine/blob/main/INSTALLITION.md)
