@@ -4,7 +4,9 @@
 MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von anderen Spielern gespielt werden können. Die Software, die dafür benutzt wird, ist MinTal Engine. Sie kann kostenlos heruntergeladen werden.
 
 ## 
-### Hilfe & FaQ
-[TalScript](https://github.com/LoVeYunai/MinTal-Engine/blob/main/TALSCRIPT.md)
+### Hilfe
+[TalScript & Programmierung]()
 
-[Installationen & Einrichtung](https://github.com/LoVeYunai/MinTal-Engine/blob/main/INSTALLITION.md)
+[Installationen & Einrichtung]()
+
+[Java Installieren & Einrichten]()
