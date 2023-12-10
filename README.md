@@ -3,8 +3,6 @@
 
 MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von anderen Spielern gespielt werden können. Die Software, die dafür benutzt wird, ist MinTal Engine. Sie kann kostenlos heruntergeladen werden.
 
-## Screenshots
+Für Unterstützung senden Sie eine E-Mail an MEngine@gmail.com oder treten Sie unserem Discord-Kanal bei.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
