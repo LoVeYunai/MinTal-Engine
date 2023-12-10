@@ -12,6 +12,6 @@ MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von an
 [Java Installieren & Einrichten]()
 
 
-![Logo](https://github.com/LoVeYunai/MinTal-Engine/edit/main/)
+![Logo](https://github.com/LoVeYunai/MinTal-Engine/edit/main/20231210_204005_0001.png)
 
 
