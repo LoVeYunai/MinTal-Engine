@@ -3,6 +3,11 @@
 
 MinTal ermöglicht seinen Nutzern das Entwickeln eigener Spiele, die dann von anderen Spielern gespielt werden können. Die Software, die dafür benutzt wird, ist MinTal Engine. Sie kann kostenlos heruntergeladen werden.
 
-Für Unterstützung senden Sie eine E-Mail an MEngine@gmail.com oder treten Sie unserem Discord-Kanal bei.
+### Team
 
+* `Inhaber` @LoVeYunai
+* `Leitung` @peanutistcool
+* `Hoster` @gamersucht
 
+Du willst auch ein teil des teams sein?
+dann bewirb dich jetzt als  `Betatester/in`/`Developer/in`/`Designer/in`/`Supporter/in`/`Creator/in`. wir sehen uns im Team.
